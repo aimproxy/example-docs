@@ -1,0 +1,11 @@
+---
+product_name: DevGuide
+product_version:
+product_type: DevGuide
+
+url:
+baseurl: /
+
+description: Documentation for working
+
+github_repo: aimproxy/example-docs
